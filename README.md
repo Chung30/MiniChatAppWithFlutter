@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mini_chat
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MiniChatAppWithFlutter
+>>>>>>> 59c6999147a9714d841c1a9abae8b9bd3ea8a200
